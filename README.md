@@ -20,7 +20,7 @@ In this we will be implementing the GET/POST APIs required for the backend to fu
 
 - Spring Boot 
 - Java 11
-- IntelliJ IDEA
+- Eclipse
 - PostgreSQL
 - Hibernate 
 - Postman 
